@@ -1,6 +1,6 @@
 # Report
 
-The report and accompanying appendix can be found [here](https://github.com/henryli17/web3-ticketing-poc/tree/main/report).
+The report and its accompanying appendix can be found [here](https://github.com/henryli17/web3-ticketing-poc/tree/main/report).
 
 # Local Deployment
 
